@@ -1,0 +1,42 @@
+commit 018d163be2596868979bc15e4bda2c2ef51429b7
+Merge: 8ef9725 5867b76
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 19:31:04 2026 -0700
+
+    Resolve merge conflict
+
+commit 5867b767d7aa458b9ecb354a408df218a45c5a86
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 19:29:05 2026 -0700
+
+    Add favorite game
+
+commit 8ef97254617e3c12c622e54467c548bc1e33af86
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 19:27:55 2026 -0700
+
+    Add favorite food
+
+commit 450275edeb170deeea4f7386f74476fb6988eea1
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 19:12:55 2026 -0700
+
+    This is just to show I can make a readme without help or a little help
+
+commit 2b92129e419927c28b7af1212a28d4c6bb9ce7d1
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 17:42:04 2026 -0700
+
+    This is to add the read me file into the MAIN Branch hopefullly it work
+
+commit a83b3d1ab9ea734656c72dcd6f4a89681af95135
+Author: Sylphviel <vikk111223@gmail.com>
+Date:   Fri Sep 4 12:12:14 2026 -0700
+
+    I added my name and my hobby on here
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
